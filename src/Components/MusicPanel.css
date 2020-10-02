@@ -1,0 +1,32 @@
+.music-panel{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    flex-direction: column;
+    border-radius: 3em;
+    overflow: hidden;
+    width: 100%;
+}
+
+.music-cover{
+    position: absolute;
+    top: 0; bottom: 0; left: 0; right: 0;
+    width: 100%;
+    z-index: -100;
+}
+
+.music-panel-play{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: rgba(65, 64, 64, 0.8);
+    border-radius: 1em;
+    width: 40px;
+    height: 40px;
+}
+
+.music-panel-play-icon{
+    stroke: #fff;
+    width: 32px;
+}

@@ -1,0 +1,58 @@
+[
+    {
+        "id": 0,
+        "title": "Higher",
+        "artist": "Tobu",
+        "album": "",
+        "path": "tobu-higher.mp3",
+        "cover": "higher.jpg"
+    },
+    {
+        "id": 1,
+        "title": "Betty Boop",
+        "artist": "Charlie Puth",
+        "album": "",
+        "path": "charlie-puth-betty-boop-original-repost.mp3",
+        "cover": "betty_boop.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Betty Boop",
+        "artist": "Charlie Puth",
+        "album": "",
+        "path": "charlie-puth-betty-boop-original-repost.mp3",
+        "cover": "betty_boop.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Betty Boop",
+        "artist": "Charlie Puth",
+        "album": "",
+        "path": "charlie-puth-betty-boop-original-repost.mp3",
+        "cover": "betty_boop.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Betty Boop",
+        "artist": "Charlie Puth",
+        "album": "",
+        "path": "charlie-puth-betty-boop-original-repost.mp3",
+        "cover": "betty_boop.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Betty Boop",
+        "artist": "Charlie Puth",
+        "album": "",
+        "path": "charlie-puth-betty-boop-original-repost.mp3",
+        "cover": "betty_boop.jpg"
+    },
+    {
+        "id": 6,
+        "title": "Betty Boop",
+        "artist": "Charlie Puth",
+        "album": "",
+        "path": "charlie-puth-betty-boop-original-repost.mp3",
+        "cover": "betty_boop.jpg"
+    }
+]
